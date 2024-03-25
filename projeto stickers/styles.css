@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(59, 59, 59);
+}
+
+.sticker {
+    position: absolute;
+    max-width: 15%;
+    max-height: 15%;
+}
